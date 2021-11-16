@@ -1,0 +1,1920 @@
+@media only screen and (max-width: 1920px) {
+	nav.navbar {
+		padding-right: 178px;
+	}
+}
+@media only screen and (max-width: 1680px) {
+	:root {
+		font-size: 16px;
+	}
+	div.title h3 {
+		font-size: 27px !important;
+	}
+	.text h6 {
+		font-size: 22px !important;
+		padding-top: 10px !important;
+	}
+	footer {
+		padding: 70px 100px;
+	}
+	footer .left p {
+		font-size: 18px;
+	}
+	nav.navbar .navbar-collapse ul li a,
+	nav.navbar .navbar-collapse ul .dathang {
+		font-size: 18px;
+	}
+	.cauhoi-top {
+		padding-top: 60px;
+	}
+	.cauhoi-top .title h2 {
+		font-size: 34px;
+		line-height: 1.3;
+	}
+	.cauhoi-top .fact .fact-item span {
+		font-size: 28px;
+		padding-right: 6px;
+	}
+	.ask .answer p,
+	.ask .ask-item p {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.blog-top .left h5 {
+		font-size: 28px;
+		line-height: 1.3;
+		padding-bottom: 16px;
+	}
+	.link {
+		padding-bottom: 10px;
+	}
+	.box-des-blog .title-des-blog {
+		font-size: 22px;
+	}
+	.section-form .img
+	{
+		padding-bottom: 100%;
+	}
+}
+@media only screen and (max-width: 1440px) {
+	.box-1,.box-2,.box-3{
+		height: 420px;
+	}
+	/* Gioi Thieu */
+	
+	.section-8{
+		padding-top: 60px;
+	}
+	/* End Gioi Thieu */
+	/* Cau hoi */
+	.cauhoi-top .title h2 {
+		font-size: 31px;
+	}
+	.ask .answer p,
+	.ask .ask-item p {
+		margin-bottom: 5px;
+	}
+	/* Cau hoi */
+	.owl-carousel .owl-stage-outer {
+		width: 98vw;
+		padding: 0 80px;
+		padding-bottom: 110px;
+	}
+	/* Owl carousel */
+	.owl-carousel .owl-stage-outer{	
+		margin-left: -50px !important;}
+	.section-2-content {
+		padding: 280px 20px;
+	}
+	/* Blog */
+	.blog-top .left h5 {
+		font-size: 26px;
+		padding-bottom: 12px;
+	}
+	.blog-top .left .link p {
+		text-align: justify;
+		padding-top: 12px;
+	}
+	.blog-top .banner {
+		padding-bottom: 56%;
+	}
+	.blog-top .left .xemthem {
+		font-size: 18px;
+		padding: 11px 0;
+	}
+	.box-des-blog .title-des-blog {
+		font-size: 20px;
+	}
+	.img-des-blog {
+		height: 230px;
+	}
+	/* Blog */
+
+	/* Chi tiet */
+	.side-bar .card .card-body {
+		padding: 15px;
+	}
+	.content-post .text h1 {
+		font-size: 28px;
+	}
+	.content-post .text p,
+	.link span,
+	.recommend__item .card .card-body p {
+		font-size: 16px;
+	}
+	.content-post .text h6 {
+		font-size: 22px;
+		padding: 17px 0;
+	}
+	.side-bar .card .card-body .card-title {
+		font-size: 24px;
+	}
+	.side-bar .card .card-body .card-text .left,
+	.side-bar .card .card-body .card-text .right {
+		font-size: 18px;
+	}
+	.recommend .title p {
+		font-size: 22px;
+	}
+	.recommend .title button {
+		font-size: 21px;
+	}
+	.recommend__item .card .card-body h5 {
+		font-size: 19px;
+	}
+	.link {
+		padding-bottom: 30px;
+	}
+	.content-post .text .span {
+		padding: 0;
+	}
+	.section-form .form form input
+	{
+		font-size: 18px;
+	}
+	.section-form .form .sale .left p {
+		font-size: 26px;
+	}
+	.section-form .form .sale .right {
+		padding: 8px 40px;
+	}
+	.section-form .form form input,
+	.section-form .form form button {
+		height: 70px;
+	}
+	.section-form .form form input[name="name"] {
+		margin-top: 25px;
+		margin-top: 5px;
+	}
+	
+	.section-form .form form button {
+		margin-top: 30px;
+		font-size: 22px;
+	}
+	/* Chi tiet */
+}
+@media only screen and (max-width:1366px){
+	[class*="box-"] p{
+		margin-top:0px;
+	}
+	.owl-carousel .owl-stage-outer{
+		margin-left: -100px !important;
+		padding: 0 100px;
+	}
+	.section-4-item img{
+		width: 45%;
+		top: -15%;
+	}
+	.section-4-item h6{
+		padding-top: 90px ;
+	}
+	.section-5-item {
+		height: 525px;
+	}
+	.section-6 {
+		margin-top: 180px;
+	}
+	.section-form .img {
+		padding-bottom: 97%;
+	}
+
+}
+@media only screen and (max-width: 1280px) {
+	body{
+		padding-top: 90px;
+	}
+	.title-box{
+		font-size: 22px;
+		width: 650px;
+	}
+	.section-1-content{
+		padding: 40px;
+		text-align: left;
+		font-size: 16px;
+	}
+	.section-1-content h1{
+		font-size: 28px;
+		margin-bottom: 20px;
+		text-align: left;
+	}
+	.section-1-content p{
+		font-size: 16px;
+	}
+	.section-2-content {
+		padding: 280px 20px;
+	}
+	.section-2-content h4{
+		font-size: 28px;
+	}
+	.section-2-content p{
+		font-size: 16px;
+	}
+	
+	.box-1{
+	margin: 265px 7px 0 7px;
+	}
+	.box-2, .box-3{
+		margin: 7px;
+	}
+	.box-3
+	{
+		margin-top: 14px;
+	}
+	.box-2
+	{
+		margin-top: 75px;
+	}
+	[class*="box-"] {
+		padding: 10px;
+	}
+	[class*="box-"] h6{
+		font-size: 18px; font-weight: bold;
+	}
+	.section-2-content h4{
+		font-size: 24px;
+	}
+	.section-2 p{
+		margin-top: 0;
+	}
+	.img-title{
+		padding: 0 20px;
+	}
+	.section-3-content{
+		padding: 40px;
+	}
+	.section-3-content h4{
+		font-size: 28px;
+	}
+	.section-3-content h1{
+		font-size: 24px;
+	}
+	.section-3-content p{
+		font-size: 16px;
+		padding: 10px;
+	}
+	.section-3-content h4{
+		font-size: 24px;
+	}
+	.section-4-item p{
+		font-size: 16px;
+	}
+	.box-1,.box-2,.box-3{
+		height: 345px;
+	}
+	.card-item{
+		margin: 20px;
+		height: 450px;
+	}
+	.card-item p{
+		padding: 10px;
+		font-size: 16px;
+	}
+	.card-item img{
+		padding: 10px;
+	}
+	.section-4-item{
+		margin: 60px 15px;
+		height: 365px;
+	}
+	.section-4-item img{
+		max-width: 40%;
+		top: -20%;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+	.section-4-item h6{
+		padding-top: 70px;
+	}
+	.section-4-item p{
+		padding: 15px;
+	}
+	.section-5-item{
+		height:510px;
+		margin: 20px;
+	}
+	.section-6 h1{
+		font-size: 24px;
+	}
+	/* Owl Carousel */
+	.owl-carousel .owl-stage-outer {
+		width: 98vw;
+		margin-left: -100px !important;
+		padding: 0 100px;
+		padding-bottom: 110px;
+		margin-bottom: -130px;
+		z-index: -1;
+	}
+	/* Owl carousel */
+
+	.section-5-item p{
+	font-size: 16px;
+	padding: 15px;
+	}
+	.section-5 .title-box{
+		margin-bottom: 0;
+	}
+	.section-5-item img{
+		width: 200px;
+		top: 85%;
+	}
+	.customer{
+		width: 80px !important;
+	height: 80px !important;
+	left: 22%;
+    bottom: -13%;
+	}
+	.section-5-item h4 {
+		bottom: 0px;
+	}
+	.dropdown-menu.show {
+		right: 0;
+		left: unset;
+	}
+	nav.navbar .navbar-collapse ul li a,
+	nav.navbar .navbar-collapse ul .dathang {
+		font-size: 16px;
+	}
+	nav.navbar .navbar-collapse ul .dathang {
+		width: 135px;
+	}
+	nav.navbar {
+		padding: 0 15px;
+		height: 90px;
+	}
+	.section-5-item h4{
+		font-size: 14px;
+	}
+	.section-6 h1{
+		font-size: 28px;
+	}
+	.section-6 p{
+		font-size: 16px;
+	}
+	.panel-title a{
+		font-size: 20px;
+	}
+	.panel-body p{
+		font-size: 16px;
+	}
+	.cauhoi-top .title h2 {
+		font-size: 28px;
+		margin-bottom: 30px;
+	}
+	.cauhoi-top .fact .fact-item {
+		padding: 35px;
+	}
+	.cauhoi-top .fact .fact-item-2 {
+		height: -webkit-fit-content;
+		height: -moz-fit-content;
+		height: fit-content;
+	}
+	footer .right .social a {
+		margin-right: 10px;
+	}
+	/* Gioi Thieu */
+	.section-8-content p{
+		font-size: 16px;
+	}
+	.section-8-content h1 {
+		font-size: 28px;
+		line-height: 27px;
+	}
+	.section-9 h1{
+		font-size: 28px;
+	}
+	.section-9 p{
+		font-size: 16px;
+	}
+	/* cau hoi */
+	.cauhoi-top .fact .fact-item-1,.cauhoi-top .fact .fact-item-2{
+		height: 100%;
+	}
+	.section-form {
+		padding-bottom: 80px;
+	}
+	.section-form .img {
+		width: 95%;
+		padding-bottom: 98%;
+	}
+	.section-form .form {
+		margin-left: 0;
+	}
+	.section-form .form h6 {
+		font-size: 35px !important;
+	}
+	.section-form .form .sale .left p {
+		font-size: 24px;
+	}
+	.section-form .form .sale .right {
+		padding: 5px 34px;
+	}
+	.section-form .form .sale .right p {
+		font-size: 30px;
+	}
+	.section-form .form form input[name="name"] {
+		margin-top: 25px;
+	}
+	.section-form .form form input,
+	.section-form .form form button {
+		height: 65px;
+	}
+	.section-form .form form button {
+		margin-top: 25px;
+	}
+}
+@media only screen and (max-width: 1024px) {
+	:root {
+		font-size: 15px;
+	}
+	.section-2 .title-box{
+	top: 25px;
+	}
+	.box-1, .box-2, .box-3{
+		height: 375px;
+	}
+	nav.navbar {
+		padding: 0 10px;
+	}
+	.navbar-light .navbar-brand img {
+		width: 120px;
+	}
+	nav.navbar .navbar-collapse ul li a,
+	nav.navbar .navbar-collapse ul .dathang {
+		font-size: 15px;
+		text-align: center;
+	}
+	nav.navbar .navbar-collapse ul {
+		padding: 0;
+	}
+	.dropdown img {
+		width: 27px;
+		height: 27px;
+	}
+	.dropdown-menu {
+		min-width: -webkit-fit-content;
+		min-width: -moz-fit-content;
+		min-width: fit-content;
+	}
+	.dropdown .dropdown-menu .dropdown-item span {
+		font-size: 15px;
+	}
+	div.title h3 {
+		font-size: 21px !important;
+	}
+	h6,
+	.text h6 {
+		font-size: 17px !important;
+	}
+	/* Trang chu */
+	.section-2,
+	.section-3,
+	.section-4,
+	.section-5,
+	.section-6,
+	.section-7 {
+		padding: 0 60px;
+	}
+	.section-2
+	{
+		padding:  60px;
+	}
+	.section-1 {
+		height: 390px;
+	}
+	.section-1 .text {
+		padding-left: 60px;
+	}
+	.section-1 .text h2 {
+		font-size: 23px;
+	}
+	.section-1 .text p {
+		padding: 7px 0;
+	}
+	.section-1 .section-1-text {
+		transform: translateY(15%);
+	}
+	.section-2 .top {
+		width: 71%;
+		height: 500px;
+		transform: translateY(-50px);
+	}
+	.section-2 .top .text {
+		width: 80%;
+	}
+	.section-2 .top .text h5 {
+		font-size: 22px;
+		padding-bottom: 5px;
+	}
+	.section-2 .top .text p {
+		line-height: 24px;
+	}
+	.section-2 .top img {
+		bottom: -30px;
+	}
+	.section-2 .bottom {
+		margin-top: 20px;
+	}
+	
+	.section-3 {
+		padding: 0 80px;
+		height: 1300px;
+	}
+	.section-3 .section-3-content::after {
+		width: 86%;
+		height: 357%;
+		right: -260px;
+		transform: scale(0.4);
+		top: -133%;
+	}
+	.section-3 .section-3-content .left {
+		padding-right: 50px;
+	}
+	.section-3 .section-3-content .left p {
+		line-height: 22px;
+	}
+	.section-3 .section-3-content .left br {
+		display: none;
+	}
+	.section-3 .section-3-content .right {
+		padding-bottom: 90%;
+		width: 100%;
+	}
+	.section-3 .section-3-content .left .text-1::before {
+		top: -5px;
+		width: 80px;
+		height: 110%;
+		left: -29px;
+	}
+	.section-3 .section-3-content .left .text-2::after {
+		width: 93px;
+		height: 96%;
+		bottom: -7px;
+		right: -18px;
+	}
+	.section-3 .title h3 {
+		line-height: 1.1;
+	}
+	.bg-under{
+		bottom: -95px;
+	}
+	.section-4 {
+		padding: 0 80px;
+	}
+	.section-4 .section-4-content .item {
+		margin: 0 15px;
+		margin-bottom: 30px;
+		padding: 18px;
+	}
+	.section-4 .title-box {
+		top: -110px;
+	}
+	.section-4-group{
+		margin-top: 175px;
+	}
+	.section-4-item img {
+		top: -13%;
+	}
+	.section-5::after {
+		width: 100%;
+	}
+	.section-5 .doctor {
+		width: 76%;
+	}
+	.section-5 .doctor img {
+		width: 25%;
+	}
+	.owl-carousel .owl-stage-outer{
+		margin-left: -40px !important;
+		padding: 0 40px;
+		padding-bottom: 110px;
+	}
+	.sojilab::after {
+		content: none;
+	}
+	.section-6 .title {
+		width: 58%;
+	}
+	.section-6 .title p {
+		font-size: 18px;
+	}
+	.section-6 .item {
+		margin: 45px 10px 40px 10px;
+		padding: 0 20px 20px 20px;
+	}
+	.section-7 {
+		margin-bottom: 60px;
+	}
+	.section-7 .form {
+		width: 100%;
+		margin-left: auto;
+	}
+	.section-7 .form h6 {
+		font-size: 32px !important;
+	}
+	.section-7 .form .sale .left p {
+		font-size: 22px;
+	}
+	.section-7 .form .sale .right p {
+		font-size: 28px;
+	}
+	.section-7 .form form input[name="name"] {
+		margin-top: 20px;
+		margin-bottom: 17px;
+	}
+	.section-7 .form form input,
+	.section-7 .form form button {
+		height: 60px;
+	}
+	footer {
+		padding: 50px 80px;
+	}
+	footer .left p {
+		font-size: 16px;
+	}
+	footer .right .social a {
+		margin-right: 0px;
+	}
+	/* Trang chu */
+
+	/* Cau hoi */
+	.cauhoi-top {
+		padding: 0 80px;
+		padding-top: 50px;
+	}
+	.cauhoi-top .title h2 {
+		font-size: 26px;
+	}
+	.cauhoi-top .fact,
+	.img-bot,
+	.ask {
+		width: 100%;
+	}
+	.ask {
+		padding-left: 80px;
+		padding-right: 80px;
+	}
+	.cauhoi-top .fact .fact-item{
+		margin: 10px;
+		padding: 20px;
+		height: 180px;
+	}
+	/* Cau hoi */
+
+	/* Blog */
+	.blog-top {
+		flex-direction: column-reverse;
+		margin-top: 50px;
+		padding: 0 15px;
+	}
+	.blog-top .banner {
+		padding-bottom: 30%;
+		width: 100vw;
+		margin-left: -50vw;
+		left: 50%;
+	}
+	.blog-top .left {
+		padding-right: 0;
+		margin-top: 15px;
+	}
+	.blog-top .left h5 br {
+		display: none;
+	}
+	.blog-top .left .xemthem {
+		width: 25%;
+	}
+	.blog-bot {
+		padding: 50px 50px;
+	}
+	.box-blog {
+		padding-right: 50px;
+	}
+	.box-des-blog span.time-blog {
+		text-transform: inherit;
+		color: grey;
+		font-size: 12px;
+	}
+	.img-des-blog {
+		height: 205px;
+	}
+	.box-content-recent > div:nth-child(2) {
+		padding: 0;
+	}
+	.recent-blog div {
+		margin-top: 5px !important;
+		font-size: 11px;
+		color: gray;
+	}
+	.box-des-blog .title-des-blog {
+		font-size: 18px;
+		font-weight: 700;
+		margin-top: 5px;
+	}
+	/* Blog */
+
+	/* Chi tiet */
+	.side-bar {
+		display: none;
+	}
+	.recommend {
+		margin-top: 50px;
+	}
+	/* Chi tiet */
+	/* gioi thieu */
+	.about-cg{
+		height: 100%;
+	}
+	.section-8 {
+		padding-top: 20px;
+	}
+	.section-9{
+		padding: 0;
+	}
+	.section-9 .review-video {
+	width: 90%;
+	height: 500px;
+	}
+	
+	.section-form {
+		padding: 0 60px;
+	}
+	.section-form {
+		margin-bottom: 60px;
+	}
+	.section-form .img {
+		width: 100%;
+		padding-bottom: 109%;
+	}
+	.section-form .form {
+		width: 100%;
+		margin-left: auto;
+	}
+	.section-form .form h6 {
+		font-size: 32px !important;
+	}
+	.section-form .form .sale .left p {
+		font-size: 22px;
+	}
+	.section-form .form .sale .right p {
+		font-size: 28px;
+	}
+	.section-form .form form input[name="name"] {
+		margin-top: 20px;
+		margin-bottom: 18px;
+	}
+	.section-form .form form input,
+	.section-form .form form button {
+		height: 60px;
+	}
+}
+@media only screen and (min-width:768px){
+footer{
+	margin-top: 20px;
+}
+}
+@media only screen and (max-width: 768px) {
+	.title-box{
+		margin-top: 300px;
+		width: 550px;
+	}
+	.title-box h2{
+		font-size: 18px;
+	}
+	.section-1{
+		height: 343px;
+	}
+	.section-1-content{
+		padding: 15px;
+	}
+	.section-1-content h1{
+		font-size: 26px;
+	}
+	.section-1-content p{
+		font-size: 16px;
+		margin-top: 10px;
+	}
+	.btn-banner{
+		width: 200px;
+		font-size: 18px;
+		height: 40px;
+	}
+	.section-2{
+		height: 1200px;
+	}
+	.section-2 .title-box{
+	margin-top: 0;
+	}
+	.section-2-content{
+		padding: 0 20px;
+	}
+	.section-2-content h4{
+		margin-top: 50px;
+	}
+	.section-2 p{
+		margin-bottom: 0px;
+	}
+	.section-3{
+		height: 1250px;
+	}
+	.section-3 .title-box{
+		margin: 0;
+		top: -60px;
+	}
+	.section-3-content{
+		text-align: left;
+		margin-top: 30px;
+		padding: 20px;
+	}
+	.section-3-content h4{
+		margin-top: 15px;
+	}
+	.section-3-content h4,.section-3-content h1{
+		font-size: 26px;
+	}
+	.section-3-content p{
+		padding: 0px;
+	}
+	.section-4 .title-box {
+		top: -110px;
+	}
+	.bg-under{
+		height: 410px;
+		bottom: -25px;
+	}
+	.box-1{
+		margin:175px 10px ;
+	}
+	.box-2,.box-3{
+		margin: 10px;
+	}
+	.box-2{
+		margin-top: 65px;
+	}
+	.box-3{
+		margin-top: 20px;
+	}
+	.box-1, .box-2, .box-3 {
+		height: 300px;
+	}
+
+	.card-item{
+		margin: 10px;
+		height: 450px;
+	}
+	.card-item p{
+		font-size: 16px;
+	}
+	.section-4 .title-box{
+		margin-top: 0;
+	}
+	.section-4{
+		height: 1130px;
+	}
+	.section-4-item{
+		height: 350px;
+	}
+	.section-4-group{
+		margin-top: 70px;
+	}
+	.section-6{
+		margin-top: 30px;
+	}
+	.owl-carousel .owl-stage-outer {
+		margin-left: -50px !important;
+		padding: 0 50px;
+		padding-bottom: 110px;
+	}
+	.section-5-item{
+		height: 450px;
+		margin: 15px;
+	}
+	.section-5-item p{
+		font-size: 16px;
+		padding: 10px;
+	}
+	.review{
+		margin-top: 40px;
+	}
+	.section-5-item img{
+		left: 22%;
+		top: 80%;
+	}
+	.section-5-item h4{
+		bottom: 0;
+		font-size: 16px;
+	}
+	.customer{
+		width: 65px !important;
+		height: 65px !important;
+	}
+	.owl-theme .owl-nav.disabled+.owl-dots {
+		margin-top: 50px;}
+
+	.section-6{
+		height: 500px;
+	}
+	.section-6 h1{
+		font-size: 24px;
+		margin: 15px 0;
+	}
+	.section-6 .title-box{
+		margin-top: 230px;
+	}
+	.section-6 .review-video{
+		height: 400px;
+	}
+	.dropdown.dropdown-mobile {
+		display: block;
+	}
+
+	nav.navbar {
+		padding: 0 15px;
+	}
+	#default {
+		border: unset;
+		font-size: 23px;
+	}
+	#default:focus {
+		border: unset;
+		box-shadow: unset;
+	}
+	.navbar-collapse {
+		width: 100vw;
+		height: 100vh;
+		position: fixed;
+		top: 0;
+		left: -100vw;
+		background: rgba(0, 0, 0, 0.85);
+		z-index: 997;
+		display: block;
+	}
+	.navbar-collapse.show {
+		left: 0;
+		touch-action: none;
+	}
+	.navbar-collapse.in {
+		overflow-y: visible;
+		transition: 0;
+	}
+	#shown {
+		position: absolute;
+		top: 30px;
+		right: 20px;
+	}
+	nav.navbar .navbar-collapse ul {
+		margin: unset !important;
+		padding: 90px 90px;
+		align-items: flex-start;
+	}
+	nav.navbar .navbar-collapse ul li {
+		padding: 10px 0;
+	}
+	nav.navbar .navbar-collapse ul li a {
+		color: #ffffff;
+		font-size: 18px;
+		font-weight: 400;
+	}
+
+	nav.navbar .navbar-collapse ul li a.active {
+		font-size: 20px;
+		font-weight: 700;
+	}
+	.nav-item.dropdown {
+		display: none;
+	}
+	.dropdown {
+		margin-right: 10px;
+	}
+	.dropdown .dropdown-menu .dropdown-item span {
+		color: #000000;
+	}
+	footer .right .social a {
+		width: 15%;
+	}
+	footer .right h6 {
+		padding: 12px 0;
+	}
+	footer .right .app .store img {
+		width: 120px;
+	}
+	footer .right .app .store img:first-child {
+		margin-bottom: 5px;
+	}
+	footer h3{
+		font-size:15px;
+		line-height: 24px;
+		
+	}
+	footer h5{
+		font-size: 15px;
+	}
+
+	.about .title-box{
+		margin-top: 30px;
+	}
+	.about{
+		height: 700px;
+	}
+	.cauhoi-top {
+		padding: 0 50px;
+		padding-top: 50px;
+	}
+	.ask {
+		padding: 0 50px;
+		margin-bottom: 50px;
+	}
+	.ask .ask-item,
+	.ask .answer {
+		padding: 20px;
+	}
+	.cauhoi-top .title h2 {
+		font-size: 24px;
+	}
+
+	.img-bot {
+		padding: 0 30px;
+		margin: 0;
+		margin-bottom: 50px;
+	}
+	.box-content-recent > div{
+		padding-right:5px ;
+	}
+	.img-recent {
+	height: 50px;
+	}
+	.img-des-blog img{
+		height: 70%;
+	}
+	.panel-title a{
+		font-size: 18px;
+	}
+	/* Gioi thieu */
+	.section-8-content{
+		padding:30px 10px;
+	}
+	.about{
+		height: 950px;
+	}
+	/* Cau hoi */
+	.cauhoi-top .fact .fact-item{
+		height: 230px;
+	}
+	.contact_content{
+		padding: 45px;
+	}
+	.contact-page-area{
+		margin-top: 40px;
+	}
+	.section-form {
+		padding: 0 40px;
+	}
+	.section-form {
+		margin-top: 60px;
+	}
+	.section-form .img {
+		transform: unset;
+		width: 65%;
+		padding-bottom: 58%;
+		margin: auto;
+		margin-bottom: 0;
+		border-radius: 0;
+	}
+	.section-form .form {
+		margin: auto;
+		margin-top: 0;
+		border-radius: 0;
+		border-bottom-left-radius: 15px;
+		border-bottom-right-radius: 15px;
+	}
+}
+
+@media only screen and (max-width: 576px) {
+
+	.section-2, .section-3, .section-4, .section-5, .section-6, .section-7 {
+		padding: 0 30px;
+	}
+	body{
+		padding-top: 70px;
+	}
+	.title-box{
+		width: 510px;
+	}
+	.banner1{
+		background-position: unset;
+		}
+	.section-1 {
+		height: 409px;
+	}
+	.bg-none{
+		background-color: rgba(0,0,0,0.4);
+	}
+	.section-1-content{
+		padding: 30px;
+		padding-top: 50px;
+	}
+	.section-1-content h1{
+		text-align: center;
+		color: #fff;
+	}
+	.section-1-content p{
+		color: #fff;
+	}
+	.section-2{
+		height: 1500px;
+	}
+	.section-2 .title-box {
+		font-size: -30px;
+	}
+	.bg-under{
+		display: none;
+	}
+	.btn-banner{
+		margin-bottom: 40px;
+	}
+	.section-2 .title-box{
+		top: -40px;
+	}
+	.box-1{
+		margin-top: 50px;
+		margin-bottom: 10px;
+	}
+	.box-2{
+		margin-top: 10px;
+	}
+	.section-4{
+		height: 2270px;
+	}
+	.section-4-item {
+		height: 310px;
+	}
+	.section-4-item img{
+		top:-22%;
+		max-width: 40%;
+		
+	}
+	.section-4-item img {
+		width: 30%;
+		top: -25%;
+	}
+	.section-4-item h6 {
+		padding-top: 80px;
+	}
+	.section-5-item{
+		height: 580px;
+	}
+	/* Cau hoi */
+	.cauhoi-top .fact .fact-item {
+		padding: 25px;
+	}
+	.img-bot > div:last-child {
+		display: none;
+	}
+	.cauhoi-top .fact .fact-item-2 {
+		height: -webkit-fit-content;
+		height: -moz-fit-content;
+		height: fit-content;
+	}
+	.cauhoi-top .fact .fact-item p{
+		text-align: justify;
+	}
+	.cauhoi-top .fact .fact-item{
+		height: 160px;
+	}
+	.footer-content{
+		padding: 20px;
+	}
+	.ask .ask-item h6{
+		font-size: 16px!important;
+	}
+	.ask .answer p, .ask .ask-item p {
+		text-align: justify;
+	}
+	/* Cau hoi */
+	.owl-carousel .owl-stage-outer {
+		width: 110vw;
+	    margin-left: -42px !important;
+    padding-left: 42px
+	}
+	.owl-theme .owl-dots .owl-dot {
+		width: 29px;
+	}
+	/* Blog */
+	.blog-top .banner {
+		padding-bottom: 36%;
+	}
+	.form-search,
+	.box-categories {
+		display: none;
+	}
+	.nav-right {
+		padding-left: 0;
+	}
+	.box-content-recent h6 a {
+		font-size: 15px;
+	}
+	.card-item {
+		height: 550px;
+	}
+	.box-img{
+		margin: 0 auto;
+		display: block;
+	}
+	[class*="box-"] h6{
+		text-align: center;
+	}
+	.blog-top .left .xemthem{
+		width: 40%;
+	}
+	.section-3 {
+		height: 2500px;
+	}
+	.section-6 .review-video{
+		height: 300px;
+	}
+	/* Blog */
+
+	/* Chi tiet */
+	.recommend .recommend__item {
+		justify-content: space-between;
+	}
+	.recommend .recommend__item > a:nth-child(odd) {
+		padding-right: 10px;
+	}
+	.recommend .recommend__item > a:nth-child(even) {
+		padding-right: 10px;
+	}
+	.recommend__item .card {
+		width: 100%;
+	}
+	.link {
+		display: block !important;
+	}
+	.link > div:first-child {
+		padding-bottom: 10px;
+	}
+	.link span {
+		margin-right: 15px;
+	}
+	.content-post .text h5 {
+		font-size: 22px;
+	}
+	.content-post .text p,
+	.recommend__item .card .card-body p {
+		font-size: 15px;
+	}
+	.recommend .recommend__item > div {
+		width: 48%;
+	}
+	/* Chi tiet */
+	.owl-carousel .owl-stage-outer {
+		width: 110vw;
+		margin-left: -88px !important;
+		padding-left: 88px;
+		padding-bottom: 110px;
+	}
+	footer {
+		padding: 50px 30px;
+	}
+	/* gioi thieu */
+	.about-cg{
+		margin-top: 10px;
+	}
+	.section-8-content h1 {
+		font-size: 22px;
+	}
+	.section-9 h1{
+		font-size: 22px;
+	}
+	.about{
+		height: 1000px;
+	}
+	.section-7 .img {
+		width: 100%;
+		padding-bottom: 88%;
+	}
+	.section-form .img
+	{
+		display: none;
+	}
+}
+@media only screen and (max-width: 420px) {
+	.title-box{
+		margin-bottom: 30px;
+		width: 350px;
+	}
+	.section-2,.section-3,.section-4,.section-5,.section-6,.section-7,.section8,footer{
+		padding: 0;
+	}
+	
+	.banner1{
+	background-position: unset;
+	}
+	.bg-none{
+		background: none;
+	}
+	.section-1 {
+		height: 418px;
+	}
+	.section-1-content{
+		padding: 25px;
+	}
+	.section-1-content{
+		background-color: rgba(0,0,0,0.4);
+	}
+	.section-1-content h1{
+		color: #fff;
+		font-size: 20px;
+		padding: 4px;
+		margin: 0;
+	}
+	.section-1-content p{
+		color: #fff;
+	}
+	
+	.box-1{
+		margin-top: 60px;
+		margin-bottom: 10px;
+	}
+	.box-3{
+		margin: 20px 10px 10px 10px;
+	}
+	.box-1, .box-2, .box-3 {
+		height: 300px;
+	}
+	.box-content p{
+		padding: 0;
+	}
+	.section-2{
+		height: 1500px;
+	}
+	.section-2-content{
+		padding: 20px;
+	}
+	.section-2-content h4{
+		font-size: 22px;
+		line-height: 28px;
+	}
+	.section-3{
+		height: 2340px;
+	}
+	.section-3-content h4, .section-3-content h1{
+		font-size: 22px;
+	}
+	.section-3 .title-box{
+		margin: 0;
+		top: -70px;
+	}
+	
+	.bg-under{
+		display: none;
+	}
+	.w-100{
+		padding:0 20px 20px 20px;
+	}
+	.card-item{
+		height: 500px;
+	}
+	.card-item img{
+		padding: 20px;
+	}
+	.section-4{
+		height: 2440px;
+	}
+	.section-4-item {
+		height: 330px;
+	}
+	.section-4-item .section-4-content{
+		padding-top: 20px;
+	}
+	.section-4-item img {
+		width: 35%;
+		top: -20%;
+	}
+	.section-5-item{
+		height: 400px;
+	}
+	
+	.section-5-item h4{
+		left: 45%;
+		bottom: 5px;
+	}
+	.owl-carousel .owl-stage-outer {
+		margin-left: -41px !important;
+		padding-left: 41px;
+		padding-bottom: 110px;
+	}
+	.section-6{
+		height: 550px;
+	}
+	.section-6 img{
+		width: 100%;
+		padding: 15px;
+	}
+	.section-6 h1{
+		text-align:left;
+		padding: 15px;
+		margin: 0;
+	}
+	.section-6 p{
+		text-align: left;
+		padding: 15px;
+		width: 100%;
+	}
+	.panel{
+		padding:5px 20px;
+	}
+	.panel-title a{
+		font-size: 15px;
+	}
+	footer p{
+		text-align: center;
+	}
+	.info{
+		padding-top: 30px;
+	}
+	footer h5{
+		font-size: 14px;
+	}
+	.btn-banner{
+		width: 150px;
+		font-size: 14px;
+		border: none;
+	}
+	nav.navbar {
+		height: 70px;
+	}
+	nav.navbar .navbar-collapse ul {
+		padding: 50px;
+	}
+	.card-item p{
+		padding: 20px;
+	}
+	footer .left > img {
+		width: 111px;
+	}
+	footer h3{
+		font-size:14px;
+		line-height: 24px;
+	}
+	.section-8-content h6{
+		padding: 15px;
+	}
+	.about{
+		height: 800px;
+	}
+	.cauhoi-top {
+		padding: 0 20px;
+		padding-top: 20px;
+	}
+	.cauhoi-top .title h2 {
+		font-size: 20px;
+		margin-bottom: 20px;
+	}
+	.ask,
+	.img-bot {
+		padding: 0 20px;
+		margin-bottom: 20px;
+	}
+	.img-bot > div {
+		padding: 0;
+	}
+	.blog-top {
+		margin-top: 0;
+	}
+	.box-blog {
+		padding-right: 30px;
+	}
+	.box-des-blog .text-des-blog {
+		line-height: 20px;
+		height: -webkit-fit-content;
+		height: -moz-fit-content;
+		height: fit-content;
+	}
+	.btn-des-blog {
+		padding: 5px 15px;
+	}
+	.recent-blog div {
+		display: none;
+	}
+	.box-content-recent h6 a {
+		font-size: 13px;
+	}
+	.img-recent {
+		height: 60px;
+	}
+	.blog-bot {
+		padding: 30px 15px;
+	}
+	.img-des-blog img{
+		height: 100%;}
+
+		.img-des-blog{
+			padding-right: 0;
+		}
+		.box-blog{
+			padding: 20px;
+		}
+		.text-des-blog{
+			padding: 0;
+		}
+	/* Blog */
+	/* Chi tiet */
+	.wrapper.detail {
+		padding: 0 30px;
+		margin: 30px 0;
+	}
+	.content-post .text h1 {
+		font-size: 24px;
+		padding-bottom: 15px;
+	}
+	.content-post .text p,
+	.recommend__item .card .card-body p {
+		font-size: 16px;
+	}
+	.link span {
+		font-size: 14px;
+	}
+	.content-post .text h6 {
+		font-size: 18px;
+		padding: 10px 0;
+	}
+	.recommend {
+		margin-top: 30px;
+	}
+	.recommend__item .card .card-body h5 {
+		font-size: 17px;
+	}
+	.recommend .title button {
+		font-size: 18px;
+	}
+	/* Chi tiet */
+	.contact-page-are{
+		margin-top: 30px;
+	}
+	.contact_content_title{
+		margin-top: 10px;
+		
+	}
+	.contact_info{
+		padding: 15px;
+		margin: 15px;
+	}
+	footer p{
+		margin-bottom: 0;
+	}
+		/* Gioi thieu */
+		.section-8 img {
+			margin-top: 0;
+			padding: 10px 20px;
+		}
+		.section-8{
+			padding-top: 10px;
+		}
+		.section-8-content h1{
+			text-align: left;
+			font-size: 20px;
+			padding: 0 20px;
+		}
+		.section-8-content h6{
+			text-align: justify;
+			padding:0px 20px ;
+		}
+		.section-8-content p{
+			padding: 0 20px;
+			text-align: justify;
+		}
+		.section-9{
+			padding: 0 20px;
+		}
+		.section-9 .review-video{
+		width: 100%;
+    	height: 300px;
+		}
+		.section-9 h1 {
+			font-size: 20px;
+			line-height: 27px;
+		}
+		.section-9 p{
+			
+			width: 100%;
+			text-align: justify;
+		}
+		.about{
+			height: 900px;
+		}
+		.ask .ask-item h6{
+			text-align: left;
+		}
+		.cauhoi-top .fact .fact-item {
+			height: 200px;
+		}
+		.contact_content_title {
+			font-size: 22px;
+		}
+		.contact_content{
+			padding: 20px;
+		}
+		.contact-page-area{
+			margin-top: 20px;
+		}
+		.contact_content .contact_info{
+			padding: 0;
+		}
+		.section-form .img {
+			width: 100%;
+			padding-bottom: 87%;
+		}
+		.section-form .form {
+			width: 100%;
+			padding: 20px;
+		}
+		.section-form .form .sale .right {
+			padding: 5px 20px;
+		}
+		.section-form .form .sale .left p {
+			font-size: 20px;
+		}
+		.section-form .form .sale .right p {
+			font-size: 24px;
+		}
+		.section-form .form form input {
+			width: 100%;
+			height: 55px;
+			font-size: 16px;
+		}
+		.section-form .form form button {
+			margin-top: 20px;
+			height: 55px;
+			font-size: 20px;
+		}
+}
+@media only screen and (max-width: 375px) {
+	body {
+		padding-top: 60px;
+	}
+	nav.navbar {
+		height: 60px;
+	}
+	nav.navbar .navbar-collapse ul li a.active {
+		font-size: 18px;
+	}
+	.navbar-light .navbar-brand img {
+		width: 85px;
+	}
+	.link .blog {
+		white-space: unset;
+	}
+	.section-1{
+		height: 443px;
+	}
+	.section-2{
+		height: 1525px;
+	}
+	.section-2 .title-box{
+	margin: 0;
+	}
+	.content-post .text h5 {
+		font-size: 20px;
+	}
+	.recommend .title p {
+		margin-bottom: 0;
+		font-size: 18px;
+	}
+	.recommend .title a {
+		font-size: 16px;
+	}
+	.recommend .recommend__item > a {
+		padding: unset !important;
+	}
+	.wrapper.detail {
+		padding: 0 20px;
+	}
+	.content-post .text h5 {
+		font-size: 18px;
+	}
+	
+	.box-1,.box-2{
+		margin: 10px ;
+	}
+	.box-1{
+		margin-top: 60px;
+	}
+	.cauhoi-top .fact .fact-item{
+		height: 230px;
+	}
+	.section-5-item img{
+		left: 15;
+		top: 75%;
+	}
+	.section-6 .review-video{
+		height: 250px;
+	}
+	.owl-carousel .owl-stage-outer{
+		margin-left: -38px !important;
+    padding-left: 38px;
+	}
+
+	.owl-carousel .owl-stage-outer {
+		margin-left: -39px !important;
+		padding-left: 39px;
+	}
+		/* gioi thieu */
+		.section-8-content h1{
+			font-size: 18px;
+		}
+		.about .title-box{
+			width: 335px;
+		}
+		.section-9{
+			margin-top: 0px;
+		}
+		.section-9 h1{
+			font-size: 18px;
+		}
+		.about{
+			height: 950px;
+		}
+		.ask .ask-item h6{
+			font-size: 16px !important;
+			text-align: left;
+		}
+}
+
+
+@media only screen and (max-width: 320px) {
+	:root {
+		font-size: 14px;
+	}
+	.title-box{
+		width: 320px;
+	}
+	.title-box h2{
+		font-size: 14px;
+	}
+	.section-1{
+		height: 443px;
+	}
+	.section-1-content p{
+		margin-bottom: 10px;
+		font-size: 14px;
+	}
+	.section-1-content h1{
+		font-size: 18px;
+	}
+	.section-2-content h4{
+		font-size: 20px;
+	}
+	.section-2-content p{
+		font-size: 14px;
+	}
+	[class*="box-"] p {
+		font-size: 14px;
+	}
+	.section-3-content h4, .section-3-content h1{
+		font-size: 20px;
+	}
+	.section-3 {
+		height: 2150px;
+	}
+	.section-3-content p{
+		font-size: 14px;
+	}
+	.section-4{
+		height: 2565px;
+	}
+	.section-4-item {
+		height: 350px;
+	}
+	.section-4-item img {
+		top: -15%;
+	}
+	.section-4-item p{
+		font-size: 14px;
+	}
+	.card-item {
+		height: 450px;
+	}
+	.card-item p{
+		font-size: 14px;
+	}
+	.section-5-item p{
+		font-size: 14px;
+	}
+	.section-5-item h4{
+		left: 40%;
+	}
+	.section-6 h1 {
+		font-size: 22px;
+	}
+	.section-6 p{
+		font-size: 14px;
+	}
+	.panel-body p{
+		font-size: 14px;
+	}
+	.owl-carousel .owl-stage-outer {
+	margin-left: -33px !important;
+    padding-left: 33px;
+	}
+	.footer-content {
+		padding:10px;
+	}
+	footer {
+		padding: 20px 10px;
+	}
+	.ask .ask-item h6 {
+		letter-spacing: 0;
+	}
+	.ask .ask-item,
+	.ask .answer {
+		padding: 15px;
+	}
+	.ask .answer p,
+	.ask .ask-item p {
+		font-size: 15px;
+		line-height: 23px;
+	}
+	.ask .ask-item h6 {
+		font-size: 15px;
+	}
+	.cauhoi-top .title h2 {
+		font-size: 18px;
+		margin-bottom: 15px;
+	}
+	footer .right .social a {
+		margin-right: 10px;
+	}
+	/* Gioi thieu */
+	.about .title-box{
+		width: 270px;
+	}
+	.section-8-content h1{
+		font-size: 16px;
+	}
+	.section-8-content p{
+		font-size: 14px;
+	}
+	.section-9 .review-video {
+		height: 200px;
+	}
+	.section-9 h1 {
+		font-size: 16px;
+	}
+	.section-9 p{
+		font-size: 14px;
+	}
+	.about{
+		height: 850px;
+	}
+	/* cau hoi */
+	.cauhoi-top .fact .fact-item {
+		height: 230px;
+	}.cauhoi-top .fact .fact-item p{
+		font-size: 14px;
+	}
+	.ask .answer p, .ask .ask-item p{
+		font-size: 14px;
+	}
+	.section-form .form {
+		padding: 20px 15px;
+	}
+	.section-form .form h6 {
+		font-size: 26px !important;
+	}
+	.section-form .form .sale .left p {
+		font-size: 18px;
+	}
+	.section-form .form .sale .right {
+		padding: 5px 15px;
+	}
+	.section-form .form .sale .right p {
+		font-size: 20px;
+	}
+	.section-form .form form input {
+		height: 50px;
+		padding: 15px;
+	}
+	.section-form .form form button {
+		width: 60%;
+		height: 50px;
+	}
+}
